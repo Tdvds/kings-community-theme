@@ -135,6 +135,7 @@
   
   .cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
     background-color: var(--king-color1);
+    border: var(--king-color4) solid 2px;
     color: var(--king-color2);
     display: inline-block;
     max-width: 650px;
