@@ -12,11 +12,11 @@
 @import url('https://raw.githubusercontent.com/tylerboy0604/kings-community-theme/main/king.theme.css');
 
 :root {
-  --king-bg: url(https://i.imgur.com/FTxa6Pe.png);
-  --king-home-icon: url(https://i.imgur.com/O1PZTL7.gif);
-  --king-color1: #6b106e;
+  --king-bg: url(https://i.imgur.com/nYpeG2V.png);
+  --king-home-icon: url(https://i.imgur.com/jZfHnXx.png);
+  --king-color1: #e4d800;
   --king-color2: #ffffff;
-  --king-color3: #ffffff;
+  --king-color3: #e4d800;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
