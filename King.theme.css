@@ -970,6 +970,21 @@
     color: var(--king-color1);
   }
   
+  .side-1lrxIh .themed-qqoYp3.item-2GWPIy, 
+  .topPill-2vcLsa .themed-qqoYp3.item-2GWPIy {
+      background-color: var(--king-color6) !important;
+  } 
+
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, 
+.topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
+  background-color: var(--king-color5) !important;
+}
+.selected-1sf9UK.item-2GWPIy, 
+.selected-1sf9UK.item-2GWPIy:hover {
+  color: white !important;
+}
+
+
   ::-webkit-scrollbar {
     width: 3px !important;
     height: 8px !important;
